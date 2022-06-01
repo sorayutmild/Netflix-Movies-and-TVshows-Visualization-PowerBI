@@ -10,10 +10,12 @@ then we combine it all together using `data_preparation.ipynb` and the final pre
 
 ## Results
 This project depicts 2 story points.
-1. an overview of Netflix content
+1. an overview of Netflix content \
 ![page1: An overview of Netflix content](img/page1.gif "page1")
-2. Top IMDB score contents
+
+2. Top IMDB score contents \
 ![page2: Top IMDB score contents](img/page2.gif "page2")
+
 You can find it by following Poer BI link below.
 
 ## Links 
