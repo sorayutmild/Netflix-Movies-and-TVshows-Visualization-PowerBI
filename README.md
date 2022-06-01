@@ -19,5 +19,5 @@ This project depicts 2 story points.
 You can find it by following Poer BI link below.
 
 ## Links 
-[Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjlhY2FiMjItNDVkNy00MGNmLWJjOTQtODRhYTEyYzIyOWFiIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D)
+[Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjlhY2FiMjItNDVkNy00MGNmLWJjOTQtODRhYTEyYzIyOWFiIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D) \
 Medium (on progress)
