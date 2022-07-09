@@ -16,7 +16,7 @@ This project depicts 2 story points.
 2. Top IMDB score contents \
 ![page2: Top IMDB score contents](img/page2.gif "page2")
 
-You can find it by following Poer BI link below.
+You can find it by following Power BI link below.
 
 ## Links 
 [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjlhY2FiMjItNDVkNy00MGNmLWJjOTQtODRhYTEyYzIyOWFiIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D) \
